@@ -1,0 +1,21 @@
+	This criterion is linked to a Learning Outcome Interview Readiness:
+What is the definition of a serverless application?
+
+A serverless application is an application where you're abstracted from the server.  The server obviously exists but you don't interact with it directly.
+
+This criterion is linked to a Learning Outcome Interview Readiness:
+What is the definition of model serving and what are the two types?
+
+Batch and live.  Batch is when a lot of requests are ran at once. Live is when a request is ran immediately like this bot.
+
+	This criterion is linked to a Learning Outcome Interview Readiness:
+What are 3 advantages of deploying using Model Serving methods Vs. deploying on GitHub Pages or HuggingFace for free?
+
+1. More adaptability. With free services you're the product.
+2. number of requests, can run much more on a paid service
+3. speed, can go faster on better paid hardware.
+
+Interview Readiness:
+What Is Machine Learning Inference? How Does Machine Learning Inference Work? Please walk us through an example?
+I'm actually not sure.  What I googled wasn't conclusive.  I think it's when a model is in use in what I would traditionally call production.  A model is
+deployed and being used by end users and providing the value it's supposed to provide by making inferences.
